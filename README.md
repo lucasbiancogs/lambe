@@ -1,6 +1,6 @@
 # Lambe-Lambe
 
-### This is a reduced copy of the instagram.
+### This is a shorten copy of the instagram.
 
 Developed with the react-native course from cod3r.
 
