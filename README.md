@@ -1,7 +1,7 @@
 # Lambe-Lambe
 
-Este projeto é uma cópia resumida do Instagram.
+### This is a reduced copy of the instagram.
 
-Desenvolvido no curso de React-native da cod3r.
+Developed with the react-native course from cod3r.
 
 ![](./assets/imgs/screenShot.png)
